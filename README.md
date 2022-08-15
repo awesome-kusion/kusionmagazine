@@ -1,2 +1,1 @@
-# kusionmagazine
-KusionStack 开源社区简报
+# KusionStack 中文月刊
